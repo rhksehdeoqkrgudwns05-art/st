@@ -1,0 +1,6 @@
+{
+  "name": "나의 전공 공부 도우미",
+  "description": "대학생을 위한 바이브코딩 & 웹 프로젝트 1~7차시 강의 복습 및 학습 도우미",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
